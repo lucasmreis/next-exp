@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^2.0.0-beta",
+    "next": "^4.2.3",
     "nprogress": "^0.2.0"
   }
 }
